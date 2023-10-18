@@ -1,0 +1,26 @@
+.alertMessageSuccess{
+	background-color: #01842C;
+	opacity: 0.8 !important;
+	color:white;
+	display: none;
+}
+.alertMessageError{
+	background-color: #DA291C;
+	opacity: 0.8 !important;
+	color:white;
+	display: none;
+}
+
+/*icon*/
+.pencil{
+	background:url('img/pencil.svg') no-repeat center center;
+	width:25px;
+	height:25px;
+	float:left;
+}
+.trash{
+	background:url('img/trash.svg') no-repeat center center;
+	width:25px;
+	height:25px;
+	float:left;
+}
